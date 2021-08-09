@@ -1,0 +1,70 @@
+SOBRE MIM
+Sou formada em Publicidade e Propaganda pela Universidade de Taubaté, sempre me identifiquei com a área de comunicação e tecnologia.
+Curiosa, amo viajar e conhecer pessoas, lugares e ter experiências novas. Desafios e surpresas me motivam a crescer e ser criativa!
+No ano de 2021, conheci a Trybe e tomei a decisão de entrar de cabeça na área de Desenvolvimento Web, e atualmente estudo para me tornar uma Desenvolvedora Full-Stack.
+
+HABILIDADES
+SOFT
+- Colaboração
+- Criatividade
+- Comunicação
+HARD
+- HTML
+- CSS
+- JavaScript
+- React
+- MySQL
+
+PROJETOS
+- PixelsArt;
+Uma página web que contém uma paleta de cores funcional para criar desenhos em pixels. 
+Tecnologias utilizadas: javascript, css e html.
+
+- Facebook SingUp;
+Recriando a antiga página de inicial/login do Facebook, procurando ser o mais parecido possível.
+Tecnologias utilizadas: javascript, css e html.
+Este projeto foi realizado em pair programming com Fernanda Porto. https://www.linkedin.com/in/fernanda-porto-oliveira/
+
+- Star Wars Planets Search;
+Aplicação com uma lista com filtros de planetas do universo de Star Wars.
+Tecnologias utilizadas: React Context API e Hooks.
+
+- Trybe Wallet;
+Uma carteira de controle de gastos com conversor de moedas, ao utilizar essa aplicação um usuário deverá ser capaz de: adicionar, remover e editar um gasto, visualizar uma tabelas com seus gastos e visualizar o total de gastos convertidos para uma moeda de escolha.
+Tecnologias utilizadas: React e Redux.
+
+- Online Store;
+Uma versão simplificada, sem persistência no banco de dados, de uma loja online onde os usuários poderão: buscar produtos a partir da API, adicioná-los e removê-los do carrinho de compras, visualizar detalhes, avaliações e finalizar a compra (simulada).
+Tecnologias utilizadas: Métodos Ágeis, Kanban e React.
+Alessandra Rezende https://www.linkedin.com/in/alessandra-rezende/
+Arthur Menezes Correa https://www.linkedin.com/in/arthur-menezes-correa/
+Emerson Saturnino https://www.linkedin.com/in/emerson-saturnino/
+Lucas Portella https://www.linkedin.com/in/lucas-fernandes-portella/
+
+- Trivia;
+Um jogo de perguntas e respostas baseado no jogo Trivia o qual o usuário poderá: configurar os temas e quantidade de perguntar, fazer login, verificar sua pontuação e visualizar a página de ranking.
+Tecnologias utilizadas: Kanban, React e Redux.
+Fernanda Porto https://www.linkedin.com/in/fernanda-porto-oliveira/  
+Dennis Marcelo https://www.linkedin.com/in/dennis-marcelo/  
+Guilherme Caixeta https://www.linkedin.com/in/guilherme-caixeta/
+
+- Bonna Mango
+Criação de um app de receitas onde é possível ver, buscar, filtrar, favoritar e acompanhar o processo de preparação de receitas e drinks! A base de dados são 2 APIs distintas, uma para comidas e outra para bebidas. O layout tem como foco dispositivos móveis.
+Tecnologias utilizadas: Kanban, React Context API e Hooks
+Aline Barbosa https://www.linkedin.com/in/alinebarbosaaraujo/
+Luiz Reina https://www.linkedin.com/in/luizreina/
+Pedro Henrique https://github.com/PedroSincero
+
+- SpotifyClone;
+Neste projeto, simulando de uma forma silplificada, foi utilizado as habilidades de: modelar um banco de dados aplicando a 1ª, 2ª e 3ª Forma Normal, criar tabelas, lidar com VIEWs, alterar tabelas existentes e criar reações dinâmicas com TRIGGERS
+
+- Back-End (em construção);
+No momento estou estudando o módulo de back-end e aprendento as técnologias: MongoDB, NodeJS, Express.js e ORM.
+
+CONTATOS
+E então, vamos criar algo!?
+- GitHub https://github.com/maiaraborsatti
+- Linkedin https://www.linkedin.com/in/maiara-borsatti/
+- Email
+- Telegram
+Desenvolvido por Maiara Borsatti
